@@ -4,7 +4,7 @@
 
 # Antigravity Local API + Memory Bridge
 
-**Author & Creator:** Rishabh Raj ([@rishu7491](https://github.com/rishu7491))  
+**Author & Creator:** Rishabh Raj ([@Rishabhraj06](https://github.com/Rishabhraj06))  
 **License:** Private / Proprietary  
 
 OpenAI-compatible local HTTP bridge for the AGY CLI, with a local searchable archive of conversations and an MCP server that lets AGY search that archive as a tool.
