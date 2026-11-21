@@ -2,10 +2,16 @@
   <img src="assets/antigravity-to-api-banner.jpg" alt="Antigravity + API" width="100%" />
 </p>
 
-# Antigravity Local API + Memory Bridge
+# 🔌 Antigravity REST API + Memory Bridge
 
 **Author & Creator:** Rishabh Raj ([@Rishabhraj06](https://github.com/Rishabhraj06))  
 **License:** Private / Proprietary  
+
+<div align="center">
+  <img src="assets/demo.gif" width="100%" alt="Antigravity REST API Live Demo Video"/>
+</div>
+
+---
 
 OpenAI-compatible local HTTP bridge for the AGY CLI, with a local searchable archive of conversations and an MCP server that lets AGY search that archive as a tool.
 
